@@ -7,6 +7,7 @@ baseurl = "http://hanshovanitz.com"
 canonifyurls = true
 title = "Stuff and Code"
 author = "Hans Hovanitz"
+theme = "hugo-uno"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 [taxonomies]
