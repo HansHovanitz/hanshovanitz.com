@@ -1,0 +1,44 @@
+
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://hanshovanitz.com"
+canonifyurls = true
+title = "Stuff and Code"
+author = "Hans Hovanitz"
+theme = "hugo-uno"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[Params]
+  AuthorName = "HansHovanitz"
+  github = "HansHovanitz"
+  bitbucket = false
+  flickr = false
+  twitter = false
+  email = "hovanitz.hans@gmail.com"
+  description = "Jack of all trades, Master of some. This is a place to write down thoughts about projects I work on."
+  muut = false
+  linkedin = "hans-hovanitz-0ab78515"
+  cover = "/images/background-cover.jpg"
+  logo = false
+
+[[menu.title]]
+    name = "About Me"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -100
+    identifier = "about"
+    url = "/pages/about/"
+[[menu.title]]
+    name = "Resume"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -110
+    identifier = "theresume"
+    url = "/pages/resume/"
+
+
