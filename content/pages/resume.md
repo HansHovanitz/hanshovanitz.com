@@ -14,6 +14,7 @@ title = "Resume"
 ### Technical Skills
 	Test: 		More Test
 	Test2:		More Test2
+	Test3:		More3!!
 
 	
 
