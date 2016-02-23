@@ -8,7 +8,7 @@ title = "Hugo"
 
 +++
 
-##Creating website with Hugo and deploying to AWS S3.
+## Creating website with Hugo and deploying to AWS S3.
 
 A friend recommended that I give Hugo a try for setting up a webpage for myself. [Hugo]( https://gohugo.io/) is a blog framework built on Go. Installing Hugo was pretty easy as was actually using it to create new pages. After selecting a theme, Markdown format is used for the blog/page content. Hugo abstracts a lot of the code. It took me a little bit of HTML manipulation to get the index page set up how I wanted it. The biggest challenge… 
 
