@@ -32,12 +32,13 @@ I discovered that computer programming is truly what drives and excites me. I ha
 IRA Fulton School of Engineering, BS in Computer Science (Expected Spring 2016) 3.7
 #### Northern Arizona University
 MA Applied Sociology (2009) 4.0 
+
 BS in Sociology (2007) 3.6
 
 
 ### Employment History
 #### CIDSE Lead Tutor (2015-Present)
-*Arizona State University, Tempe, AZ
+_Arizona State University, Tempe, AZ_
 <ul>
 	<li> Supervise a team of tutors serving students from the School of Computing, Informatics, & Decision Systems Engineering at ASU for drop-in tutoring.</li>
 	<li>Suppress student stress by aiding with programming queries (typically Java/C/C++), teaching data structures and algorithms, and unpacking problems into manageable elements.</li> 
