@@ -23,7 +23,22 @@ I discovered that computer programming is truly what drives and excites me. I ha
 	Databases:					MySQL
 	Version Control:			Git, Github
 	Game Engine:				Unity
-	Other:						AGILE process, Programming Best Practices, Small Team Management, Embrace and Love technology. 
+	Other:						AGILE process, Programming Best Practices, Small Team Management, Embrace and Love Technology. 
+
+### Education
+#### Arizona State University
+IRA Fulton School of Engineering, BS in Computer Science (Expected Spring 2016) 3.7 GPA
+#### Northern Arizona University
+MA Applied Sociology (2009) 4.0 GPA 
+BS in Sociology (2007) 3.6 GPA
+
+### Employment History
+#### CIDSE Lead Tutor
+*Arizona State University, Tempe, AZ*
+* Supervise a team of tutors serving students from the School of Computing, Informatics, & Decision Systems Engineering at ASU for drop-in tutoring. 
+* Suppress student stress by aiding with programming queries (typically Java/C/C++), teaching data structures and algorithms, and unpacking problems into manageable elements. 
+
+
 
 
 
