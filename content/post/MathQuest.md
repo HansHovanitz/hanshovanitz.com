@@ -21,12 +21,14 @@ Math Quest is an educational virtual world game in the vein of traditional JRPGs
 
 <br>
 
-The game was created using the [Unity](https://unity3d.com/) game engine by a team of three CS students and myself. Game scripting was done in 'JavaScript' and 'C#'. Our team followed an Agile process. From its inception Math Quest made it up to version 1.13 by the time the project came to a close. We were very happy with what we were able to create using excellent communication, teamwork, and dedication. 
+The game was created using the [Unity](https://unity3d.com/) game engine by a team of three CS students and myself. Game scripting was done in `JavaScript` and `C#`. Our team followed an Agile process. From its inception Math Quest made it up to version 1.13 by the time the project came to a close. We were very happy with what we were able to create using excellent communication, teamwork, and dedication. 
+
+<br>
 
 ![mathquest_title](/images/mathquest_fight.jpg)
 
 <br>
 
-You can try out the game yourself [here](https://drive.google.com/file/d/0B_qdVkAMIOgcOXBVZ0NNQkJjNGs/view). Download, extract, and run the exe in the root folder. 
+You can try out the game yourself **[here](https://drive.google.com/file/d/0B_qdVkAMIOgcOXBVZ0NNQkJjNGs/view)**. Download, extract, and run the exe in the root folder. 
 
-The code for the scrips can be viewed [here](https://github.com/HansHovanitz/MathQuest).
+The code for the scripts can be viewed **[here](https://github.com/HansHovanitz/MathQuest)**.
