@@ -13,7 +13,7 @@ title = "Resume"
 Jack of all trades, master of some. I have always had an affinity for working with computer technology. While wandering other trails in environmental protection l was exposed to some software development and web design. I began learning to program and have never looked back. 
 I discovered that computer programming is truly what drives and excites me. I have worked with many languages and tools but I am never done learning. I am open to new ideas and ways of doing things, and I am able to learn new skills quickly. I am seeking an entry level or internship position because I am eager to gain experience and begin applying my computer science skills to real world problems. 
 
-
+<br>
 
 ### Technical Skills
 	Languages (proficient): 	Java, C++, Able to learn new OOP languages quickly
@@ -27,7 +27,7 @@ I discovered that computer programming is truly what drives and excites me. I ha
 	Game Engine:				Unity
 	Other:						AGILE process, Programming Best Practices, Small Team Management, Embrace and Love Technology. 
 
-
+<br>
 
 ### Education
 #### Arizona State University
@@ -37,7 +37,7 @@ MA Applied Sociology (2009) 4.0
 
 BS in Sociology (2007) 3.6
 
-
+<br>
 
 ### Employment History
 #### CIDSE Lead Tutor 
@@ -73,9 +73,9 @@ _Northern Arizona University_, Flagstaff, AZ (2007-2009)
 	<li> Worked with Sociology faculty and staff on student evaluation, record-keeping, and research.</li> 
 </ul>
 
+<br>
 
-
-#### Projects
+### Projects
 **I plan to create blogs to highlight some of the projects I have done but until I have done so please see a sample of my projects on [Github](https://github.com/HansHovanitz)
 
 
