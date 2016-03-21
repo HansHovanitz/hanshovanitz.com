@@ -18,7 +18,6 @@ The plan is to use `Python 2.7` with a `Django` framework and deploy it on AWS. 
 Here is a sample of what I wrote for part for the project proposal that gives a better idea of what the capstone project is: 
 
 <hr>
-<br>
 
 "As humankind accelerates through the Information Age, new technological heights in medicine seem to be summited with increasing frequency. However, the specter of cancer remains a dangerous and resilient adversary. Cancer evolution, structural variation, and immune system evasion all contribute to the difficulty of treating the disease (Warner, 2015). Storing data related to cancer research has become instrumental in the search to understand and ultimately eradicate cancer. The Mayo Clinic, a medical practice and medical research group, maintains one such repository called PatientView.
 
