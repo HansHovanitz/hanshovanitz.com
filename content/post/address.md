@@ -3,7 +3,7 @@ Categories = ["Development", "GoLang"]
 Description = ""
 Tags = ["Development", "golang"]
 date = "2016-04-14T00:34:47-07:00"
-title = "Address"
+title = "Java Project: Sorting Address Intervals"
 
 +++
 
@@ -16,7 +16,7 @@ A friend of mine applied for a `Java` job and was given a take-home programming 
 #### The Problem:
 
 Given a command line input of address ranges like [94133,94133] [94200,94299] [94226,94399] the output should be [94133,94133] [94200,94399].
-A complete description can be found **[here](https://github.com/HansHovanitz/JavaInterviewProblems)**
+A complete description can be found **[here](https://github.com/HansHovanitz/JavaInterviewProblems)**.
 
 <hr>
 
