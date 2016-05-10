@@ -23,7 +23,7 @@ A complete description can be found **[here](https://github.com/HansHovanitz/Jav
 #### The Solution:
 
 There are many ways this problem can be solved. That is part of the fun of programming! 
-<hr>
+
 ```java
 import java.util.*;
 import java.lang.*;
