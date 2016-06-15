@@ -15,7 +15,7 @@ A friend of mine applied for a `Java` job and was given a take-home programming 
 
 #### The Problem:
 
-Given a command line input of address ranges like [94133,94133] [94200,94299] [94226,94399] the output should be [94133,94133] [94200,94399].
+Given a command line input of address ranges like [94133,94133] [94200,94299] [94226,94399] the output should be sorted and overlapping ranges merged with the result being: [94133,94133] [94200,94399].
 A complete description can be found **[here](https://github.com/HansHovanitz/JavaInterviewProblems)**.
 
 <hr>
@@ -39,31 +39,29 @@ import java.io.*;
 **********************************************************************/
 public class AddressSort {
 	public static void main(String [] args) {
-		
-		ArrayList<Interval> addressInterval = new ArrayList<Interval>();
-		
-		if (args.length > 0)
-		{
-			//Create new interval objects with the command line input. 
-			for (int i = 0; i < args.length; i++)
-			{
-				String intervalString = args[i];
-				String [] tokens = intervalString.replaceAll("\\[|\\]","").split(",");
-				int start = Integer.parseInt(tokens[0]);
-				int end = Integer.parseInt(tokens[1]);
-				Interval interval = new Interval(start, end);
-				addressInterval.add(interval);
-			}	
-			
-			//Merge overlapping intervals together and store into new ArrayList. 
-			ArrayList<Interval> mergedAddress = merge(addressInterval);
-			
-			//Print interval output in zipcode range format. 
-			for (int i = 0; i < mergedAddress.size(); i++) {
-				System.out.println("[" + mergedAddress.get(i).start + "," + mergedAddress.get(i).end + "]");
-			}
-		}
-	}
+    
+        ArrayList<Interval> addressInterval = new ArrayList<Interval>();
+    
+        if (args.length > 0){
+    	    //Create new interval objects with the command line input. 
+    	    for (int i = 0; i < args.length; i++){
+                String intervalString = args[i];
+                String [] tokens = intervalString.replaceAll("\\[|\\]","").split(",");
+                int start = Integer.parseInt(tokens[0]);
+                int end = Integer.parseInt(tokens[1]);
+                Interval interval = new Interval(start, end);
+                addressInterval.add(interval);
+    	    }	
+    	
+    	    //Merge overlapping intervals together and store into new ArrayList. 
+    	    ArrayList<Interval> mergedAddress = merge(addressInterval);
+    	
+    	    //Print interval output in zipcode range format. 
+    	    for (int i = 0; i < mergedAddress.size(); i++) {
+                System.out.println("[" + mergedAddress.get(i).start + "," + mergedAddress.get(i).end + "]");
+    	    }
+        }
+    }
 	
 	/****************************************
 	* Method to merge intervals 
