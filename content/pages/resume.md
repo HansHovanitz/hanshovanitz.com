@@ -18,14 +18,15 @@ I discovered that computer programming is truly what drives and excites me. I ha
 ### Technical Skills
 	Languages (proficient): 	Java, C++, Able to learn new OOP languages quickly
 	Languages (familiar):		JavaScript, C#, Python, Swift
-	OS:							Windows (95'-Win10), Mac OSX, learning Linux (Ubuntu)
-	Tools:						Eclipse, Visual Studio, AWS, wercker
+	OS:							Windows (95'- Win10), Mac OSX, learning Linux (Ubuntu)
+	Tools:						Eclipse, Visual Studio, AWS, Xcode, wercker
 	Frameworks:					Django
 	CMS: 						Hugo
 	Databases:					MySQL
 	Version Control:			Git, Github
 	Game Engine:				Unity
 	Other:						AGILE process, Programming Best Practices, Small Team Management, Embrace and Love Technology. 
+	Learning:					MEAN stack (MongoDB, Express, AngularJS, NodeJS), as much as I can...never done learning!
 
 <br>
 
