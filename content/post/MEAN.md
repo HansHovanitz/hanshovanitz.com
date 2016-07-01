@@ -17,8 +17,25 @@ In order to get some experience I created, with the help of assorted online tuto
 
 ![todo_one](/images/mean_todo/todo1.jpg)
 
-The user can add new todo events to their list, edit the events, and delete the events. 
+The user can add new todo events to their list, edit the events, and delete the events. When I get some free time I plan to update the app with some new functionality. 
 
 <br>
 
-![todo_one](/images/mean_todo/todo_main.jpg)
+![todo_main](/images/mean_todo/todo_main.jpg)
+
+<br>
+
+The project can be found **[here](https://github.com/HansHovanitz/MeanStack_TODO)**.
+
+In order to get the app running you'll need to have `MongoDB` and `Node.js` installed. 
+Then:
+* Start MongoDB with `mongod`
+* Run `npm install` to set up app dependencies
+* Run `webpack`
+* Start the app with `node src/app.js`
+* Open the localhost in your favorite web browser (`http://localhost:3000/`)
+
+[![alt text][2]][1]
+
+  [1]: /images/mean_todo/todo_main.jpg
+  [2]: Hover text
