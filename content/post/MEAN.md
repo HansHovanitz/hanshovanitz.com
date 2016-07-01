@@ -21,7 +21,7 @@ The user can add new todo events to their list, edit the events, and delete the 
 
 <br>
 
-![todo_main](/images/mean_todo/todo_main.jpg)
+[![todo_main](/images/mean_todo/todo_main.jpg)](/images/mean_todo/todo_main.jpg)
 
 <br>
 
@@ -29,17 +29,18 @@ The project can be found **[here](https://github.com/HansHovanitz/MeanStack_TODO
 
 In order to get the app running you'll need to have `MongoDB` and `Node.js` installed. 
 Then:
+
 - Start MongoDB with `mongod`
 - Run `npm install` to set up app dependencies
 - Run `webpack`
 - Start the app with `node src/app.js`
 - Open the localhost in your favorite web browser (`http://localhost:3000/`)
 
-![](/images/mean_todo/todo_main.jpg)
 
-[![Alt text](/images/mean_todo/todo_main.jpg)](/images/mean_todo/todo_main.jpg)
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
+* Bullet 3
 
-[![alt text][2]][1]
 
-  [1]: /images/mean_todo/todo_main.jpg
-  [2]: Hover text
