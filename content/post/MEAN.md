@@ -29,11 +29,15 @@ The project can be found **[here](https://github.com/HansHovanitz/MeanStack_TODO
 
 In order to get the app running you'll need to have `MongoDB` and `Node.js` installed. 
 Then:
-* Start MongoDB with `mongod`
-* Run `npm install` to set up app dependencies
-* Run `webpack`
-* Start the app with `node src/app.js`
-* Open the localhost in your favorite web browser (`http://localhost:3000/`)
+- Start MongoDB with `mongod`
+- Run `npm install` to set up app dependencies
+- Run `webpack`
+- Start the app with `node src/app.js`
+- Open the localhost in your favorite web browser (`http://localhost:3000/`)
+
+![](/images/mean_todo/todo_main.jpg)
+
+[![Alt text](/images/mean_todo/todo_main.jpg)](/images/mean_todo/todo_main.jpg)
 
 [![alt text][2]][1]
 
