@@ -36,11 +36,5 @@ Then:
 - Start the app with `node src/app.js`
 - Open the localhost in your favorite web browser (`http://localhost:3000/`)
 
-
-* Bullet 1
-* Bullet 2
-  * Bullet 2a
-  * Bullet 2b
-* Bullet 3
-
+I'm looking forward to embracing the power of being MEAN (stack).
 
