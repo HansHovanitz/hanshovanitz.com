@@ -74,9 +74,17 @@ _Northern Arizona University_, Flagstaff, AZ (2007-2009)
 	<li> Worked with Sociology faculty and staff on student evaluation, record-keeping, and research.</li> 
 </ul>
 
+
 <br>
 
+
 ### Projects
+[PatientView - Cancer Research App for Mayo Clinic](http://hanshovanitz.com/post/Capstone3/) : `Django/Python` -- Work in Progress
+[Out of Office Mobile Travel App](http://hanshovanitz.com/post/TravelApp/) : `Swift`
+[MathQuest - Educational Game to Teach Math Skills](http://hanshovanitz.com/post/MathQuest/) : `Unity`, `C#`, `JavaScript`
+[TODO List using MEAN Stack](http://hanshovanitz.com/post/MEAN/) : `MongoDB`, `Express`, `Angular`, `Node.js`
+[Sorting Address Intervals](http://hanshovanitz.com/post/address/) : `Java` Project
+
 **I plan to create blogs to highlight some of the projects I have done but until I have done so please see a sample of my projects on [Github](https://github.com/HansHovanitz)
 
 
