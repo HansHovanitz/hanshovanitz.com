@@ -14,7 +14,7 @@ Work has been somewhat limited over Summer, but we did get a bunch more done pri
 
 When arriving to the PatientView web application the user is prompted to sign in using an existing Google account. Once signed in the user is granted access to the application (if permitted).
 
-[![PatientView_Signin](/images/pv_3/pv3_1_signin.jpg)](/images_pages/capstone3_1.html)
+[![PatientView_Signin](/images/pv_3/pv3_1_signin.jpg)](/image_pages/capstone3_1.html)
 
 <br>
 
