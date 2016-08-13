@@ -20,7 +20,7 @@ When arriving to the PatientView web application the user is prompted to sign in
 
 After signing in the user can navigate to the various PatientView pages using drop down menus that are consistent throughout the application. The pages were created with `HTML` and `CSS` to make them look pretty. The `Python` powered `Django` handles the models and other logic like populating date selectors (there may be a better way to do this logic, but we are still in the process of learning).
 
-[![PatientView_Signin](/images/pv_3/pv3_2.jpg)](/images/pv_3/pv3_2.jpg)
+[![PatientView_App](/images/pv_3/pv3_2.jpg)](/images/pv_3/pv3_2.jpg)
 
 <br>
 
