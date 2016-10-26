@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xs:element name="Books">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Book" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Isbn"/>
+              <xs:element type="xs:string" name="Title"/>
+              <xs:element name="Author">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Name">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="First"/>
+                          <xs:element type="xs:string" name="Last"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="Contact">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Phone">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute type="xs:string" name="Office" use="required"/>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="Publisher"/>
+              <xs:element name="Year">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:short">
+                      <xs:attribute type="xs:byte" name="Edition" use="optional"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="Cover" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

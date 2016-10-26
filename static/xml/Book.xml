@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book Cover="Paper back">
+    <Isbn>978-1-4652-0558-2</Isbn>
+    <Title>Service-oriented-computing</Title>
+    <Author>
+      <Name>
+        <First>John</First>
+        <Last>Doe</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY400">480-965-000</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Kendal Hunt</Publisher>
+    <Year Edition="5">2015</Year>
+  </Book>
+  <Book Cover="Paper back">
+    <Isbn>9780071745604</Isbn>
+    <Title>DESIGN OF WOOD STRUCTURES-ASD/LRFD</Title>
+    <Author>
+      <Name>
+        <First>Kelly </First>
+        <Last>Cobeen</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY400">480-965-000</Phone>
+      </Contact>
+    </Author>
+    <Publisher>McGraw-Hill</Publisher>
+    <Year Edition="7">2014</Year>
+  </Book>
+</Books>
