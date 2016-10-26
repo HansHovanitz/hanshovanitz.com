@@ -30,4 +30,19 @@
     <Publisher>McGraw-Hill</Publisher>
     <Year Edition="7">2014</Year>
   </Book>
+  <Book Cover="Hard back">
+    <Isbn>978-1-4652-0558-2</Isbn>
+    <Title>1984</Title>
+    <Author>
+      <Name>
+        <First>George</First>
+        <Last>Orwell</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY400">480-965-000</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Kendal Hunt</Publisher>
+    <Year>2015</Year>
+  </Book>
 </Books>
