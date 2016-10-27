@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <!-- Book 1 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-0615-6179-5</Isbn>
+    <Title>Island</Title>
+    <Author>
+      <Name>
+        <First>Aldous</First>
+        <Last>Huxley</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY409">480-965-0000</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Harper Perennial</Publisher>
+    <Year Edition="1">2009</Year>
+  </Book>
+  <!-- Book 2 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-3160-2919-3</Isbn>
+    <Title>Blood of Elves</Title>
+    <Author>
+      <Name>
+        <First>Andrzej</First>
+        <Last>Sapkowski</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY408">480-965-1111</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Orbit</Publisher>
+    <Year Edition="1">2009</Year>
+  </Book>
+  <!-- Book 3 -->
+  <Book Cover="Paper back">
+    <Isbn>978-1-9431-3842-2</Isbn>
+    <Title>1984</Title>
+    <Author>
+      <Name>
+        <First>George</First>
+        <Last>Orwell</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY407">480-965-2222</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Brawtley Press</Publisher>
+    <Year>2014</Year>
+  </Book>
+  <!-- Book 4 -->
+  <Book Cover="Hard cover">
+    <Isbn>978-0-5532-9335-7</Isbn>
+    <Title>Foundation Trilogy</Title>
+    <Author>
+      <Name>
+        <First>Isaac</First>
+        <Last>Asimov</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY406">480-965-3333</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Everyman</Publisher>
+    <Year>2014</Year>
+  </Book>
+    <!-- Book 5 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-4411-7271-9</Isbn>
+    <Title>Dune</Title>
+    <Author>
+      <Name>
+        <First>Frank</First>
+        <Last>Herbert</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY405">480-965-4444</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Ace</Publisher>
+    <Year>1990</Year>
+  </Book>
+  <!-- Book 6 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-5533-8016-3</Isbn>
+    <Title>A Brief History of Time</Title>
+    <Author>
+      <Name>
+        <First>Stephen</First>
+        <Last>Hawking</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY404">480-965-5555</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Bantam</Publisher>
+    <Year Edition="10">1998</Year>
+  </Book>
+  <!-- Book 7 -->
+  <Book Cover="Hard cover">
+    <Isbn>978-0-5538-0202-3</Isbn>
+    <Title>The Universe in a Nutshell</Title>
+    <Author>
+      <Name>
+        <First>Stephen</First>
+        <Last>Hawking</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY404">480-965-5555</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Bantam</Publisher>
+    <Year Edition="1">2001</Year>
+  </Book>
+  <!-- Book 8 -->
+  <Book Cover="Hard cover">
+    <Isbn>978-0-7653-2635-5</Isbn>
+    <Title>The Way of Kings</Title>
+    <Author>
+      <Name>
+        <First>Brandon</First>
+        <Last>Sanderson</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY402">480-965-7777</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Tor Books</Publisher>
+    <Year>2010</Year>
+  </Book>
+    <!-- Book 9 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-4150-0787-0</Isbn>
+    <Title>Technology as Symptom and Dream</Title>
+    <Author>
+      <Name>
+        <First>Robert</First>
+        <Last>Romanyshyn</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY401">480-965-8888</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Routledge</Publisher>
+    <Year>1989</Year>
+  </Book>
+  <!-- Book 10 -->
+  <Book Cover="Paper back">
+    <Isbn>978-0-3078-8744-3</Isbn>
+    <Title>Ready Player One</Title>
+    <Author>
+      <Name>
+        <First>Ernest</First>
+        <Last>Cline</Last>
+      </Name>
+      <Contact>
+        <Phone Office="BY400">480-965-9999</Phone>
+      </Contact>
+    </Author>
+    <Publisher>Broadway Books</Publisher>
+    <Year Edition="1">2012</Year>
+  </Book>
+</Books>
