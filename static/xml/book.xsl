@@ -6,7 +6,7 @@
         <h2>My Book Collection</h2>
         <table border="1">
           <tr bgcolor="#9acd32">
-            <th>cover</th>
+            <th>Cover</th>
             <th>Isbn</th>
             <th>Title</th>
             <th>First Name</th>
@@ -18,12 +18,10 @@
             <th>Edition</th>
           </tr>
           <xsl:for-each select="Books/Book">
-
             <tr>
               <td>
                 <xsl:value-of select="@Cover"/>
               </td>
-
               <td>
                 <xsl:value-of select="Isbn"/>
               </td>
@@ -41,7 +39,6 @@
               </td>
               <td>
                 <xsl:value-of select="Author/Contact/Phone/@Office"/>
-
               </td>
               <td>
                 <xsl:value-of select="Publisher"/>

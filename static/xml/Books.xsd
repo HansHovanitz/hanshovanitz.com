@@ -6,23 +6,23 @@
         <xs:element name="Book" maxOccurs="unbounded" minOccurs="0">
           <xs:complexType>
             <xs:sequence>
-              <xs:element type="xs:string" name="Isbn"/>
-              <xs:element type="xs:string" name="Title"/>
+              <xs:element type="xs:string" name="Isbn" minOccurs="1" maxOccurs="1"/>
+              <xs:element type="xs:string" name="Title" minOccurs="1" maxOccurs="1"/>
               <xs:element name="Author">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="Name">
+                    <xs:element name="Name" minOccurs="1" maxOccurs="1">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element type="xs:string" name="First"/>
-                          <xs:element type="xs:string" name="Last"/>
+                          <xs:element type="xs:string" name="First" minOccurs="1" maxOccurs="1"/>
+                          <xs:element type="xs:string" name="Last" minOccurs="1" maxOccurs="1"/>
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
-                    <xs:element name="Contact">
+                    <xs:element name="Contact" minOccurs="1" maxOccurs="1">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element name="Phone">
+                          <xs:element name="Phone" minOccurs="1" maxOccurs="1">
                             <xs:complexType>
                               <xs:simpleContent>
                                 <xs:extension base="xs:string">
@@ -37,8 +37,8 @@
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
-              <xs:element type="xs:string" name="Publisher"/>
-              <xs:element name="Year">
+              <xs:element type="xs:string" name="Publisher" minOccurs="1" maxOccurs="1"/>
+              <xs:element name="Year" minOccurs="1" maxOccurs="1">
                 <xs:complexType>
                   <xs:simpleContent>
                     <xs:extension base="xs:short">
