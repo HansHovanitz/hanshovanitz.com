@@ -47,9 +47,9 @@
     </Author>
     <Publisher>Brawtley Press</Publisher>
     <Year>2014</Year>
-  <!-- Book 4 -->
   </Book>
-    <Book Cover="Hard cover">
+  <!-- Book 4 -->
+  <Book Cover="Hard cover">
     <Isbn>978-0-5532-9335-7</Isbn>
     <Title>Foundation Trilogy</Title>
     <Author>
@@ -65,8 +65,7 @@
     <Year>2014</Year>
   </Book>
     <!-- Book 5 -->
-  </Book>
-    <Book Cover="Paper back">
+  <Book Cover="Paper back">
     <Isbn>978-0-4411-7271-9</Isbn>
     <Title>Dune</Title>
     <Author>
