@@ -8,7 +8,7 @@ title = "Capstone Part4"
 
 +++
 
-### -Capstone Project Part4
+### -Capstone Project Part4-
 
 A Re-Engineering of the Cancer Research Web Application PatientView.
 
@@ -18,12 +18,12 @@ The project is over! After hundreds of hours of research, late-night coding bing
 
 When the user navigates to the PatientView page they are asked to sign in:
 
-PatientView Login |
----|
-![RobotMaze2](/images/pv_4/google_auth1.jpg) |
+|PatientView Login |
+|----------------------------------------------|
+|[GAuth1](/images/pv_4/google_auth1.jpg) |
 
 If they enter the incorrect information or do not have the proper credentials they willl see this:
 
 PatientView Login Fail |
 ---|
-![RobotMaze2](/images/pv_4/google_auth12.jpg) |
+![GAuth2](/images/pv_4/google_auth2.jpg) |
