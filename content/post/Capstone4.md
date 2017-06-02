@@ -38,7 +38,7 @@ Here is the `Python` code behind the page:
 
 This is a portion of the project that I spent extensive time with. Here is a table showing what all was required for a 'Create Page':
 
-![CodeStack](/images/pv_4/codestack.jpg) 
+![CodeStack](/images/pv_4/codestack.JPG) 
 
 There are numerous ways to query a patient. One is by using the search bar. The search bar has autocomplete functionality and also supports AJAX dropdown with HTML5:
 
@@ -52,6 +52,7 @@ Here are some comparisons of the original and new PatientView:
 
 ![og](/images/pv_4/original_pv.jpg) 
 ![new](/images/pv_4/new_pv.jpg) 
+<hr>
 ![og1](/images/pv_4/original1_pv.jpg) 
 ![new1](/images/pv_4/new1_pv.jpg) 
 
