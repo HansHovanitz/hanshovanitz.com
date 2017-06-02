@@ -20,42 +20,42 @@ The project is over! After hundreds of hours of research, late-night coding bing
 
 When the user navigates to the PatientView page they are asked to sign in:
 
-[GAuth1](/images/pv_4/google_auth1.jpg) 
+![GAuth1](/images/pv_4/google_auth1.jpg) 
 
 If they enter the incorrect information or do not have the proper credentials they willl see this:
 
-[GAuth2](/images/pv_4/google_auth2.jpg) 
+![GAuth2](/images/pv_4/google_auth2.jpg) 
 
 If login is successful the user is taken to the landing page. From there they can access the various features of PatientView. The web application serves as a tool for cancer researchers to enter patient data and quickly gather information, run tests, compare patient outcomes, etc. 
 
 Here's an example of one of PatientView's Create Pages:
 
-[ClinicalStudy](/images/pv_4/create_clinicalstudy.jpg) 
+![ClinicalStudy](/images/pv_4/create_clinicalstudy.jpg) 
 
 All of the pages have complete error checking and input validation. For example, if a field isn't selected the user will be alerted. If the 'In Progress' box is checked then the 'End Date' will be reset and disabled and the completed box will be disabled. This is because it does not make sense to both be in progress and completed at the same time. 
 
 Here is the `Python` code behind the page:
 
-[ClinicalStudyCode](/images/pv_4/create_clinicalstudy_code.jpg) 
+![ClinicalStudyCode](/images/pv_4/create_clinicalstudy_code.jpg) 
 
 This is a portion of the project that I spent extensive time with. Here is a table showing what all was required for a 'Create Page':
 
-[CodeStack](/images/pv_4/codestack.jpg) 
+![CodeStack](/images/pv_4/codestack.jpg) 
 
 There are numerous ways to query a patient. One is by using the search bar. The search bar has autocomplete functionaly and also supports AJAX dropdown with HTML5:
 
-[Search](/images/pv_4/searchbar.jpg) 
+![Search](/images/pv_4/searchbar.jpg) 
 
 When a patient is found the user will see something like this:
 
-[FoundPatient](/images/pv_4/patientfound.jpg) 
+![FoundPatient](/images/pv_4/patientfound.jpg) 
 
 Here are some comparisons of the origional and new PatientView:
 
-[og](/images/pv_4/original_pv.jpg) 
-[new](/images/pv_4/new_pv.jpg) 
-[og1](/images/pv_4/original1_pv.jpg) 
-[new1](/images/pv_4/new1_pv.jpg) 
+![og](/images/pv_4/original_pv.jpg) 
+![new](/images/pv_4/new_pv.jpg) 
+![og1](/images/pv_4/original1_pv.jpg) 
+![new1](/images/pv_4/new1_pv.jpg) 
 
 <br>
 
