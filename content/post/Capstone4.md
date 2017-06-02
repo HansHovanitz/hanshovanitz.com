@@ -10,11 +10,9 @@ title = "Capstone Part4"
 
 ### -Capstone Project Part4-
 
-Rough Draft
-
 A Re-Engineering of the Cancer Research Web Application PatientView.
 
-The project is over! After hundreds of hours of research, late-night coding binges, frustration, and triumphs my team delivered the Re-Engineered PatientView to the Mayo Clinic with ~90% of the origionally planned items implemented. The project consists of well over ten thousand lines of `Python` and `JavaScript` code, `HTML`, and `CSS`. I am unable to share the github repo as the product belongs to the Mayo Clinic for their internal use only. As the project progressed we discovered that some of the initial goals were out of the project's scope or not possible due to technological or time constraints. However, we are extremely proud of the work we did and were able to accomplish the vast majority of the Mayo Clinic's requirements. 
+The project is over! After hundreds of hours of research, late-night coding binges, frustration, and triumphs my team delivered the Re-Engineered PatientView to the Mayo Clinic with ~90% of the originally planned items implemented. The project consists of well over ten thousand lines of `Python` and `JavaScript` code, `HTML`, and `CSS`. I am unable to share the github repo as the product belongs to the Mayo Clinic for their internal use only. As the project progressed we discovered that some of the initial goals were out of the project's scope or not possible due to technological or time constraints. However, we are extremely proud of the work we did and were able to accomplish the vast majority of the Mayo Clinic's requirements. 
 
 <br>
 
@@ -42,7 +40,7 @@ This is a portion of the project that I spent extensive time with. Here is a tab
 
 ![CodeStack](/images/pv_4/codestack.jpg) 
 
-There are numerous ways to query a patient. One is by using the search bar. The search bar has autocomplete functionaly and also supports AJAX dropdown with HTML5:
+There are numerous ways to query a patient. One is by using the search bar. The search bar has autocomplete functionality and also supports AJAX dropdown with HTML5:
 
 ![Search](/images/pv_4/searchbar.jpg) 
 
@@ -50,7 +48,7 @@ When a patient is found the user will see something like this:
 
 ![FoundPatient](/images/pv_4/patientfound.jpg) 
 
-Here are some comparisons of the origional and new PatientView:
+Here are some comparisons of the original and new PatientView:
 
 ![og](/images/pv_4/original_pv.jpg) 
 ![new](/images/pv_4/new_pv.jpg) 
