@@ -16,19 +16,20 @@ I discovered that computer programming is truly what drives and excites me. I ha
 <br>
 
 ### Technical Skills
-	Languages (proficient): 	Java, C++, JavaScript Able to learn new OOP languages quickly
-	Languages (familiar):		C, C#, Python, Swift, HTML, CSS
-	OS:							Windows, Mac, Ubuntu
-	Frameworks:					AngularJS, Express, Django 
-	Automated Testing:			Mocha, Chai, Jasmine, Karma, Istanbul
+	Languages (proficient): 	Java, C++, JavaScript -- Able to learn new OOP languages quickly
+	Languages (familiar):		Go, C, C#, Python, Swift, HTML, CSS
+	Automation:					XL Release, Jenkins, Maven
+	Frameworks:					AngularJS, Express, Django, Lombok
+	Testing:					JUnit, Mocha, Chai, Jasmine, Karma, Istanbul
 	Environment:				Node.js
 	CMS: 						Hugo
-	Databases:					MySQL, Mongo
-	Version Control:			Git, Github
+	Databases:					Couchbase, MySQL, Mongo
+	Version Control:			Git, SVN
 	Game Engine:				Unity
 	Tools:						Eclipse, Visual Studio, IntelliJ, AWS, Xcode, wercker
+	OS:							Windows, Mac, Ubuntu
 	Other:						AGILE process, Programming Best Practices, Small Team Management, Embrace and Love Technology. 
-	Learning:					MEAN stack (MongoDB, Express, AngularJS, NodeJS), as much as I can...never done learning!
+	Learning:					MEAN stack, Go, and everything else as much as I can... never done learning! 
 
 <br>
 
@@ -44,19 +45,28 @@ BS in Sociology (2007) 3.6
 <br>
 
 ### Employment History
-#### Software Engineer III
+#### Software Engineer
+_American Express_, Phoenix, AZ (2017-Present)
+<ul>
+	<li> Create Java backend Microservices for Global Loyalty and Consumer Services.</li>
+	<li> An agile team member practicing CICD using tools like XL Release, Jenkins, and ePaaS.</li> 
+	<li> Work with Java, JavaScript, HTML, and Go to build RESTful APIs and consume them.</li> 
+	<li> Couchbase wizard.</li> 
+</ul>
+<hr>
+#### CIDSE Lead Tutor 
+_Arizona State University_, Tempe, AZ (2015-2016)
+<ul>
+	<li> Supervise a team of tutors serving students from the School of Computing, Informatics, & Decision Systems Engineering at ASU for drop-in tutoring.</li>
+	<li> Suppress student stress by aiding with programming queries (typically Java/C/C++), teaching data structures and algorithms, and unpacking problems into manageable elements.</li> 
+</ul>
+<hr>
+#### Software Engineer Intern
 _American Express_, Phoenix, AZ (Summer 2016)
 <ul>
 	<li> Automated software testing and code coverage using: Mocha, Chai, Jasmine, Karma, Istanbul, Plato. </li>
 	<li> Developed with MEAN stack (MongoDB, Express, AngularJS, Node.js).</li> 
 	<li> Participated in agile development process.</li> 
-</ul>
-<hr>
-#### CIDSE Lead Tutor 
-_Arizona State University_, Tempe, AZ (2015-Present)
-<ul>
-	<li> Supervise a team of tutors serving students from the School of Computing, Informatics, & Decision Systems Engineering at ASU for drop-in tutoring.</li>
-	<li> Suppress student stress by aiding with programming queries (typically Java/C/C++), teaching data structures and algorithms, and unpacking problems into manageable elements.</li> 
 </ul>
 <hr>
 #### Environmental Education Assistant 
