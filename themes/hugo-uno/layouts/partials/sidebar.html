@@ -26,9 +26,11 @@
                 <div class="navigation-wrapper">
                     <nav class="cover-navigation cover-navigation--primary">
                         <ul class="navigation">
-                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Blog</a> </li></br>
-                            {{ if .Site.Params.cv }}<li class="navigation__item"><a href="{{ .Site.Params.cv  }}" title="link to my CV " class="blog-button">CV</a> </li></br> {{ end }}
-                            {{ if .Site.Params.legalnotice }}<li class="navigation__item"><a href="{{ .Site.Params.legalnotice  }}" title="link to the legal notice " class="blog-button">Legal notice</a> </li></br> {{ end }}
+                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}/#blog" title="link to {{ .Site.Title }}" class="blog-button">Blog</a> </li>
+                          {{ range .Site.Menus.title }}
+                            <br>
+                            <li class="navigation__item"><a href="{{.URL}}" title="link to {{ .Name }}" class="blog-button">{{ .Name }}</a> </li>
+                          {{end}}
                        </ul>
                     </nav> {{ partial "social.html" . }} </div>
             </div>
