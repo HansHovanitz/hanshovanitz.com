@@ -17,8 +17,9 @@ I discovered that computer programming is truly what drives and excites me. I ha
 
 ### Technical Skills
 	Languages (proficient): 	Java, C++, JavaScript -- Able to learn new OOP languages quickly
-	Languages (familiar):		Go, C, C#, Python, Swift, HTML, CSS
-	Automation:					XL Release, Jenkins, Maven
+	Languages (familiar):		GoLang, C, C#, Python, Swift, HTML, CSS
+	Monitoring/Dashboarding:	Splunk, RELK (Redis, Elasticsearch, logstash, Kibana)
+	Automation:					Maven, XLRelease, Jenkins
 	Frameworks:					AngularJS, Express, Django, Lombok
 	Testing:					JUnit, Mocha, Chai, Jasmine, Karma, Istanbul
 	Environment:				Node.js
@@ -35,7 +36,7 @@ I discovered that computer programming is truly what drives and excites me. I ha
 
 ### Education
 #### Arizona State University
-IRA Fulton School of Engineering, BS in Computer Science (Expected Spring 2016) 3.7
+IRA Fulton School of Engineering, BS in Computer Science (2016) 3.7
 <hr>
 #### Northern Arizona University
 MA Applied Sociology (2009) 4.0 
