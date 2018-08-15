@@ -1,3 +1,6 @@
+**I am no longer activly maintaing this theme, I will try to check out pull requests if possible**
+
+
 hugo-uno
 ========
 
@@ -36,6 +39,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   email = "mail@fredrikloch.me"
   description = ""
   cv = "/pages/cv"
+  legalnotice = "/pages/legal-notice"
   muut = "fredrikloch"
   linkedin = "fredrikloch"
   cover = "/images/background-cover.jpg"
@@ -62,6 +66,7 @@ To create charts I use [Chart.js](https://github.com/nnnick/Chart.js) which can 
 ```
 Where the javascript file specified contains the data for the chart, a basic example could look like this:
 ```
+
 $(function(){
   var chartData = {
       labels: ["Jekyll", "Hugo", "Wintersmith"],
@@ -76,13 +81,15 @@ $(function(){
           }
       ]
   };
-  var ctx = $("#chartData").get(0).getContext("2d");
-  var myBarChart = new Chart(ctx).Bar(data1, {
+
+  var ctx = $('#basicChart').get(0).getContext("2d");
+  var myBarChart = new Chart(ctx).Bar(chartData, {
       scaleBeginAtZero : true,
       responsive: true,
       maintainAspectRatio: false,
     }
   );
+  })
 ```
 A running example can be found in my comparison between [Jekyll, Hugo and Winthersmith](http://fredrikloch.me/post/2014-08-12-Jekyll-and-its-alternatives-from-a-site-generation-point-of-view/)
 Gallery
@@ -138,7 +145,7 @@ To check installation run the following commands from a terminal and you should 
 sass -v
 > Sass 3.3.4 (Maptastic Maple)
 ```
-If for some reason SASS isn't installed follow the instructions from the [Sass install page](http://sass-lang.com/install)
+If for some reason SASS isn't installed then either follow the instructions from the [Sass install page](http://sass-lang.com/install) or run `bundle install` in the project root.
 
 ** Bourbon **
 ```bash
@@ -146,25 +153,25 @@ If for some reason SASS isn't installed follow the instructions from the [Sass i
 bourbon help
 > Bourbon 3.1.8
 ```
-If Bourbon isn't installed follow the installation instructions on the [Bourbon website](http://bourbon.io)
+If Bourbon isn't installed follow the installation instructions on the [Bourbon website](http://bourbon.io) or run `bundle install` in the project root.
 
 Once installation is verified we will need to go mount the bourbon mixins into the `scss` folder.
 
 From the project root run `bourbon install` with the correct path
 ```bash
-bourbon install --path assets/scss
-> bourbon files installed to assets/scss/bourbon/
+bourbon install --path static/scss
+> bourbon files installed to static/scss/bourbon/
 ```
 
 Now that we have the bourbon mixins inside of the `scss` src folder we can now use the sass cli command to watch the scss files for changes and recompile them.
 
 ```bash
-sass --watch assets/scss:assets/css
+sass --watch static/scss:static/css
 >>>> Sass is watching for changes. Press Ctrl-C to stop.
 ```
 
-To minify the css files use the following command in the assets folder
+To minify the css files use the following command in the static folder
 
 ```bash
-curl -X POST -s --data-urlencode 'input@css/uno.css' http://cssminifier.com/raw > css/uno.min.css
+curl -X POST -s --data-urlencode 'input@static/css/uno.css' http://cssminifier.com/raw > static/css/uno.min.css
 ```
