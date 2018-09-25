@@ -22,7 +22,7 @@ We aready had a `RELK` stack setup for other uses, so I thought of trying to lev
 As a quick side note, a `RELK` stack consists of a Redis server which receives data, which then gets picked up by Logstash, which transforms the data to have a meaningful structure and inserts it into ElasticSearch. Kibana then reads from Elasticsearch and allows users to traverse/explore the data, create dashboards, alerts, etc. 
 <br>
 
-![RelkStack](/images/jedis/relk1.jpg)
+![RelkStack](/images/jedis/relk1.png)
 
 <br>
 
