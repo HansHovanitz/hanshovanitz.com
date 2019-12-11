@@ -15,7 +15,7 @@ A little while back I participated in a Hackathon at work with several colleague
 Without going into much of the implementation details, I can say that the project was block chain powered and integrated with several of our existing enterprise tools like JIRA and ServiceNow. 
 <br>
 
-While our team did not win the company-wide hackathon bracket we were one of the finalists for the Phoenix site. It was a great experience and I look forward to the next Hackathon I am able to participate in! 
+While our team did not win the company-wide hackathon bracket we were one of the finalists for the Phoenix site. It was a great experience and I look forward to the next Hackathon I am able to participate in! Good times!
 <br>
 
 ![Hackathon](/images/hack/hack.jpg)
