@@ -3,7 +3,7 @@ Categories = ["Development","hackathon"]
 Description = "Hackathon"
 Tags = ["Development","hackathon"]
 date = "2019-12-10T23:12:45-07:00"
-title = "Hack"
+title = "Hackathon"
 
 +++
 
