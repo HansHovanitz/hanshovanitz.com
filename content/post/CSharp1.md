@@ -24,7 +24,7 @@ basics regarding classes. I could see several benefits in doing this:
 
 1. Prove that I could teach someone else what I know (and learn valuable lessons about how to structure future knowledge sharing sessions)
 2. Practice some technical writing -- it's important to be able to explain things to someone in written form and actually have them understand
-3. The main impetus of this exercise: Challenge myself to see how fast I could get up and running with a new programming languaue
+3. The main impetus of this exercise: Challenge myself to see how fast I could get up and running with a new programming language
 <br>
 
 I had written a little bit of C# code many years ago in one of my Computer Science courses but that is about it. I wanted to see
@@ -32,7 +32,7 @@ how quickly I could get going with C# and write a program to demonstrate a few p
 <br>
 
 
-Followed Microsoft's "Get Started" [Guide](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code).
+Followed Microsoft's "Get Started" _**[Guide](https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)**_.
 <br>
 
 Pain point: The command ```dotnet new console``` didn't work in VSCode. 
@@ -52,5 +52,5 @@ was getting my local environment set up and troubleshooting a few issues. Writin
 familiar with Java C# seems easy to pick up.
 <br>
 
-Here's a link to the [Code](https://github.com/HansHovanitz/CSharpExperiment)
+Here's a link to the _**[Code](https://github.com/HansHovanitz/CSharpExperiment)**_.
 

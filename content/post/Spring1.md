@@ -20,7 +20,7 @@ title = "Spring Boot Kafka Setup"
 Most of my work with Java microservices has utilized the Dropwizard framework. It’s lightweight and fairly easy to setup and get started. Spring Boot takes the ease of setup to a whole new level though. The power of @ is real. Using Spring annotations let me set-up how I wanted my class to behave in a very succinct and comprehendible manner.
 <br>
  
-As part of the Spring Boot microservice I’ve been working on I needed to implement a Kafka Producer (checkout my earlier post on Kafka for more Kafka insight: [Kafka](http://hanshovanitz.com/post/kafka/)).
+As part of the Spring Boot microservice I’ve been working on I needed to implement a Kafka Producer (checkout my earlier post on Kafka for more Kafka insight: _**[Kafka](http://hanshovanitz.com/post/kafka/)).**_  
 <br>
 
 But the application’s main method is essentially just this:
