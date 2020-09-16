@@ -10,3 +10,7 @@ Hello and welcome to my site!
 This site is currently a work in progress as I am trying to get content and my projects up while also going to school/working full-time! Want to buy more free time. 
 
 Hi.
+
+![nfl](/images/hans/nfl.jpg)
+
+![bday](/images/hans/1stBirthday.jpg)
