@@ -18,7 +18,7 @@ I do a lot of work with APIs. This involves sending a lot of JSON/XML requests a
 <br>
 
 **Background:** 
-When I want to test a system I am working on sometimes a downstream API is not available yet. In fact, this happens quite often. This is a great use case for mocking. However, mocking can require importing dependencies into your application and then code setup. I found myself running into situations where I needed to mock an external API response so often that I wanted to simplify the process. I ended up building a backend system that returns configurable JSON/XML responses. Just hit the API with something like this: https://myService.com/{key}/{id} and get the response that matches the provides key/id like this:
+When I want to test a system I am working on sometimes a downstream API is not available yet. In fact, this happens quite often. This is a great use case for mocking. However, mocking can require importing dependencies into your application and then code setup. I found myself running into situations where I needed to mock an external API response so often that I wanted to simplify the process. I ended up building a backend system that returns configurable JSON/XML responses. Just hit the API with something like this: https:// myService.com/{key}/{id} and get the response that matches the provides key/id like this:
 ```javascript
 {
     "hello": "world"
